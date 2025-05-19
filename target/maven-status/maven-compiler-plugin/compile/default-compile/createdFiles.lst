@@ -1,0 +1,3 @@
+com\securebank\model\User.class
+com\securebank\model\UserRole.class
+com\securebank\repository\UserRepository.class
